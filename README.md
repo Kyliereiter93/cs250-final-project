@@ -1,20 +1,50 @@
-# cs250-final-project
+# Java Slideshow Controller – Agile Project (CS 250)
 
-## 📌 Sprint Review and Retrospective Submission
-
-This repository includes my Sprint Review and Retrospective for the final project in CS 250. It demonstrates what I’ve learned about Scrum and Agile throughout this course, including the work I did in different team roles.
+This project was created as the final assignment for SNHU's CS 250 course. It demonstrates how to apply Agile development practices within a Scrum team environment by iteratively improving a Java-based slideshow application for a fictional travel company.
 
 ---
 
-### 💭 Reflection
+## 🧩 Project Overview
 
-**How do I interpret user needs and implement them into a program?**  
-User stories helped me understand what the user actually needs and allowed me to break that into focused tasks that solve real problems. It kept me and the team aligned on priorities.
+Originally developed as a slideshow controller for SNHU Travel, this Java app was modified during the course to meet evolving client needs. Midway through development, the Product Owner announced a pivot to focus on wellness and detox vacations, requiring new slide assets and a refined UI.
 
-**How do I approach developing programs?**  
-Agile helped me develop in cycles, reflect often, and keep improving. I plan to keep using user stories, sprint reviews, and retrospectives in the future to guide my work.
-
-**What does it mean to be a good team member in software development?**  
-It’s about clear communication, staying accountable, and helping others when needed. Working as part of a Scrum team showed me how collaboration makes the product—and the process—better.
+This project includes:
+- Sprint planning and execution
+- Sprint Review presentation
+- Sprint Retrospective report
+- Final product reflection
 
 ---
+
+## 🛠️ Technologies & Concepts
+
+- Java
+- Object-Oriented Programming (OOP)
+- Eclipse IDE
+- Agile Methodology
+- Scrum (Sprints, Backlogs, Retrospective)
+- Team collaboration and product iteration
+
+---
+
+## 📁 Repository Contents
+
+- `CS250_Final_Project_KylieReiter.pptx` – Sprint Review Presentation
+- `Sprint Review and Retrospective.docx` – Written reflection and Agile process summary
+- `README.md` – Project overview
+
+---
+
+## 📚 What I Learned
+
+- How to work in an Agile/Scrum team structure
+- How to adapt to changing product requirements
+- How to document and present iterative development cycles
+- How to reflect on collaboration, role responsibilities, and team dynamics
+
+---
+
+## 📌 Note
+
+This repository includes **documentation and deliverables**, not source code for the application itself.
+
